@@ -17,3 +17,5 @@ gradle-app.setting
 .idea/gradle.xml
 .idea/misc.xml
 .idea/vcs.xml
+sandbox/sandbox.iml
+.idea/uiDesigner.xml
